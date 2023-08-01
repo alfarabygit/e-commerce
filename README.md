@@ -1,2 +1,2 @@
-# e-commerce
-membuat web toko online dengan html css js
+# Distro e-commerce
+membuat web toko distro online dengan html css js
